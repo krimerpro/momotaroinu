@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="Dejitaru Tanabata">
-<meta name="keywords" content="dejitaru, blockchain, tanabata, bitcoin, erc20, dejitarutanabata, crypto">
-<meta name="author" content="Dejitaru Tanabata">
+<meta name="description" content="Momotaro Inu">
+<meta name="keywords" content="momotaro, blockchain, momotaroinu, bitcoin, erc20, crypto">
+<meta name="author" content="MomotaroInu">
 
-<title>Dejitaru Tanabata</title>
+<title>Momotaro Inu | ERC20</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
 <!-- Fonts -->

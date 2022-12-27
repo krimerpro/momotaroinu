@@ -3,26 +3,22 @@
   <!-- Horizontal Menu Start-->
   <nav class="main-menu static-top navbar-dark navbar navbar-expand-lg fixed-top mb-1" style="background:white">
     <div class="container">
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" style="background:orange;margin-left:20px">
-          <span class="navbar-toggler-icon"></span>
-      </button>
-
       <?php
         if($agent->isMobile()){
       ?>
-            <h4 style="margin:auto">Dejitaru Tanabata</h4>
+            <h4 style="margin:auto">Momotaro Inu</h4>
       <?php
           }
       ?>
 
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <div id="navigation" class="navbar-nav" style="width:100%">
+      <div class="collapse navbar-collapse" id="navbarCollapse" style="width:auto">
+        <div id="navigation" class="navbar-nav" style="margin:auto">
             <ul class="navbar-nav mt-1">
               <?php
                 if(!$agent->isMobile()){
               ?>
-                  <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                      <a class="nav-link" href="/" style="color:black;font-size:large">Dejitaru Tanabata</a>
+                  <li class="nav-item animated text-center" data-animation="fadeInDown" data-animation-delay="1.1s">
+                      <a class="nav-link" href="/" style="color:red;font-size:large">Momotaro Inu</a>
                   </li>
               <?php } ?>
           </ul>
