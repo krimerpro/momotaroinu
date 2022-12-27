@@ -18,13 +18,16 @@
                          <img src="{{ asset('images/logo.png') }}" style="width:40%;height:40%;display: block;margin-left: auto;margin-right: auto">
                       </div>
 
-                        <h1 class="best-template animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.5s" style="color:black;margin-top:20px">Tanabata is an annual event to celebrate the stars on the night of July 7. It is also one of the five festivals established in the Edo period.</h1>
-                        <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:black">Dejitaru Tanabata</h5>
+                        <h1 class="best-template animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.5s" style="color:red;margin-top:20px;font-weight:bold">The legend of Momotaro </h1>
+                        <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:red;font-weight:bold">MOMOTARO INU</h5>
                         <div class="mt-5 text-center">
-                          <a href="https://t.me/DejitaruTanabata" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">Telegram Group</a>
-                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x4693eee8dad356068786de39e69421358fb6215a" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">CHART</a>
-                          <a href="https://medium.com/@RenJhz/dejitaru-tanabata-9f96f7b1e3d5" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">MEDIUM</a>
+                          <a href="https://t.me/MomotaroInuErc20" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red">MAIN CHANNEL</a>
+                          <a href="https://medium.com/" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red">MEDIUM</a>
+                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red">DEXTOOLS</a>
                         </div>
+                        <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:red;font-weight:bold;margin-top:20px;background:aliceblue">LOW TAX : 3% tax fee</h5>
+                        <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:red;font-weight:bold;margin-top:20px;background:aliceblue">LOW SUPPLY : 5.000.000 $Momotaro</h5>
+                        <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:red;font-weight:bold;margin-top:20px;background:aliceblue">3% Max Wallet | 3% Max Transaction</h5>
                     </div>
                 </div>
             </div>
