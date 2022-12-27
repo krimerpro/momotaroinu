@@ -23,7 +23,7 @@
                         <div class="mt-5 text-center">
                           <a href="https://t.me/MomotaroInuErc20" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red">MAIN CHANNEL</a>
                           <a href="https://medium.com/@DaichiMm/momotaro-inu-9f1288fc53ba" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red">MEDIUM</a>
-                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red">DEXTOOLS</a>
+                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x638e48b83a7368f96bd14cd93acce21c395e691e" class="btn btn-lg btn-gradient-orange btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red">DEXTOOLS</a>
                         </div>
                         <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:red;font-weight:bold;margin-top:20px;background:aliceblue">LOW TAX : 3% tax fee</h5>
                         <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:red;font-weight:bold;margin-top:20px;background:aliceblue">LOW SUPPLY : 5.000.000 $Momotaro</h5>
